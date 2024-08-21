@@ -5,7 +5,7 @@
 
 # ✏ Descripcion del proyecto 
 
-Portfolio Desafio ALURA Latam + Oracle
+Mi primer Portfolio
 
 # 💻 Tecnologías utilizadas
 * HTML5
